@@ -1,0 +1,4 @@
+type=item
+matchItems=minecraft:netherite
+model=./master_sword
+nbt.display.Name=iregex:Master Sword
